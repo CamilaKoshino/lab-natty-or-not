@@ -17,22 +17,25 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Livro de uma novata em TI
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Aqui será escrito um livro contando sobre aventuras e vexames de uma novata em TI, que decidiu se aprofundar nesses conhecimentos para melhorar no trabalho,
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizado o Chat GPT e tecnologias para geração de imagens e audios
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Inspirado na minha trajetoria, e utilizando as ferramentas que vi aqui nesse bootcamp.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+será apresentado com o livro.
+
+## 💭 Reflexão (Opcional)
+Comente sobre o desafio de criar algo 'natty' com IA.
+```
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
